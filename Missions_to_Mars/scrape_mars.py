@@ -110,5 +110,5 @@ def scrape():
     mars["Weather"] = mars_weather
     mars["Facts"] = marsfacts_url
     mars["Hemispheres"] = hemisphere_image_urls
-
+    
     return mars
